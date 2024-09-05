@@ -2,7 +2,7 @@
 
 I am a passionate tech enthusiast with expertise in software development, constantly exploring new ideas and solving complex technical challenges. My journey involves building innovative solutions while sharing knowledge with the tech community.
 
-![Orisabiyi's Stats](https://github-readme-stats.vercel.app/api?Orisabiyi=<Orisabiyi>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Orisabiyi's Stats](https://github-readme-stats.vercel.app/api?Orisabiyi=Orisabiyi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
