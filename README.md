@@ -18,7 +18,7 @@ I am a passionate tech enthusiast with expertise in software development, consta
 - [WorldWise](https://github.com/Orisabiyi/worldwise) - A digital platform that allows users to keep track of places they've traveled to the world.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,reactjs,nextjs,redux,mongodb,express,py,flask,postgres,html,css,scss,tailwind,vercel,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,redux,mongodb,express,py,flask,postgres,html,css,scss,tailwind,vercel,vim)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
