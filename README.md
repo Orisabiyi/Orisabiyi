@@ -6,8 +6,8 @@ I am a passionate tech enthusiast with expertise in software development, consta
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a Backend Developer at Megadel Africa, developing products for startups in various industries.
-- 🖥️ Previously worked as a Frontend Developer at Selldome, building responsive, user-focused interfaces.
+- 🔭 I'm currently working as a Backend Engineer at Megadel Africa, developing products for startups in various industries.
+- 🖥️ Previously worked as a Frontend Engineer at Selldome, building responsive, user-focused interfaces.
 - 🌱 Exploring new areas of Full Stack Development, emphasizing blockchain and decentralized applications.
 - 💡 Curious about cybersecurity, network administration, and cloud computing.
 - 🎓 I hold a National Diploma in Computer Science and continue expanding my knowledge through real-world projects and continuous learning.
