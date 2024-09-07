@@ -13,12 +13,18 @@ I am a passionate tech enthusiast with expertise in software development, consta
 - 🎓 I hold a National Diploma in Computer Science and continue expanding my knowledge through real-world projects and continuous learning.
 
 ## My Projects
-- [Task Management API](https://github.com/Orisabiyi/task-management-api) - A Node.js powered API for managing tasks.
+- [Task Management API](https://github.com/Orisabiyi/taskify) - A Node.js powered API for managing tasks.
 - [Product Listing API](https://github.com/Orisabiyi/simple-crud-api) - A scalable API built for e-commerce platforms.
 - [WorldWise](https://github.com/Orisabiyi/worldwise) - A digital platform that allows users to keep track of places they've traveled to the world.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,redux,mongodb,express,py,flask,postgres,html,css,scss,tailwind,vercel,vim&perline=4)](https://skillicons.dev)
+```
+<p align="center">
+  <a href="https://skillsicon.dev>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,redux,mongodb,express,py,flask,postgres,html,css,scss,tailwind,vercel,vim&perline=4" />
+  </a>
+</p>
+```
 
 ## 🌱 Currently Exploring
 
