@@ -19,7 +19,7 @@ I am a passionate tech enthusiast with expertise in software development, consta
 
 ## Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,redux,mongodb,express,py,flask,postgres,html,css,scss,tailwind,vercel,vim&perline=4" />
   </a>
 </p>
