@@ -2,13 +2,18 @@
 I am a software engineer with expertise in both frontend and backend technologies, and I am committed to building scalable solutions and delivering high-quality code. My focus is creating seamless user experiences and robust backend systems that scale efficiently.<br><br>I am exploring the blockchain and Web3 space while continuously refining my software engineering skills to stay at the forefront of technological advancements.<br><br>
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: center; justify-content: center;">
-
-![](https://github-readme-stats.vercel.app/api?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=orisabiyi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%;"/>
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=orisabiyi&theme=dark&hide_border=false" style="width: 100%;"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100%;"/>
+  </div>
 </div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
