@@ -35,7 +35,7 @@ I am a software engineer who is committed to building scalable solutions and del
 ## 🌐 Socials:
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orisabiyi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Orisabiyidavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/orisabiyi_d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orisabiyi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Orisabiyidavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d_orisabiyi)
 
 </div>
 
