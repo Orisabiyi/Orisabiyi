@@ -13,26 +13,26 @@ I get genuinely excited about the gap between what software *can* do and what pe
 
 ### What I'm into right now
 
-- Building AI-native products — RAG pipelines, LLM integrations, agents that actually do useful things
+- Building AI-native products RAG pipelines, LLM integrations, agents that actually do useful things
 - Logistics infrastructure for African markets (routing, real-world constraints, messy data — love it)
 - Shipping fast and learning from what breaks
-- Founder of **[Common Chronicles](https://github.com/common-chronicles)** — a Lagos community for builders who make things and tell real stories
+- Founder of **[Common Chronicles](https://github.com/common-chronicles)**: a Lagos community for builders who make things and tell real stories
 
 ---
 
 ### How I build
 
-I default to **Next.js + TypeScript + Node.js** for most things. When I need speed on the backend I reach for **Fastify**. Data lives in **PostgreSQL via Prisma and Neon**. For AI I'm mostly working with **Gemini, LangChain, and Pinecone** — building RAG pipelines and integrating models into real product flows, not just wrapping APIs.
+I default to **Next.js + TypeScript + Node.js** for most things. When I need speed on the backend I reach for **Fastify**. Data lives in **PostgreSQL via Prisma and Neon**. For AI I'm mostly working with **Gemini, LangChain, and Pinecone** building RAG pipelines and integrating models into real product flows, not just wrapping APIs.
 
-I've shipped fintech tools, a logistics routing engine, an e-commerce platform, a peer-to-peer ride-sharing app, and a content automation bot — sometimes all in the same month.
+I've shipped fintech tools, a logistics routing engine, an e-commerce platform, a peer-to-peer ride-sharing app, and a content automation bot sometimes all in the same month.
 
 ---
 
 ### Currently shipping
 
-- 🚚 Route optimization microservice at [Fez Delivery](https://fezdelivery.co) — self-hosted OSRM, Nigerian road data, traffic-weighted heuristics
-- 🤖 **cc-bot** — automated content pipeline using Notion + Discord + Groq AI, built for Common Chronicles
-- 🛍️ **Slō Muse** — full-stack luxury e-commerce platform (Next.js 15, OPay, Framer Motion)
+- 🚚 Route optimization microservice at [Fez Delivery](https://fezdelivery.co): self-hosted OSRM, Nigerian road data, traffic-weighted heuristics
+- 🤖 **cc-bot**: automated content pipeline using Notion + Discord + Groq AI, built for Common Chronicles
+- 🛍️ **Slō Muse**: full-stack luxury e-commerce platform (Next.js 15, OPay, Framer Motion)
 
 ---
 
