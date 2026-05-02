@@ -30,6 +30,7 @@ I've shipped fintech tools, a logistics routing engine, an e-commerce platform, 
 
 ### Currently shipping
 
+- 🌌 Novashelf: a read-later app for space content. Think Pocket, but built specifically for people who follow the cosmos. Built with Vue.js
 - 🚚 Route optimization microservice at [Fez Delivery](https://fezdelivery.co): self-hosted OSRM, Nigerian road data, traffic-weighted heuristics
 - 🤖 **cc-bot**: automated content pipeline using Notion + Discord + Groq AI, built for Common Chronicles
 - 🛍️ **Slō Muse**: full-stack luxury e-commerce platform (Next.js 15, OPay, Framer Motion)
