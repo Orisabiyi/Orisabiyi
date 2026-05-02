@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Orisabiyidavid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://orisabiyi-lab.vercel.app)
 
-Full-stack engineer from Lagos 🇳🇬. I like to understand how things work, break them apart, and build something better — usually with AI involved somewhere.
+Full-stack engineer from Lagos 🇳🇬. I like to understand how things work, break them apart, and build something better usually with AI involved somewhere.
 
 I get genuinely excited about the gap between what software *can* do and what people are actually using it for. That gap is where I spend most of my time.
 
