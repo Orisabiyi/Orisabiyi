@@ -1,94 +1,56 @@
-# 💫 About Me:
-I am a software engineer who is committed to building scalable solutions and delivering high-quality code or product. My focus is creating seamless user experiences and robust backend systems that scale efficiently.<br><br>I am exploring the blockchain and Web3 space while continuously refining my software engineering skills to stay at the forefront of technological advancements.<br><br>
+## Hey, I'm David 👋
 
-## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="300" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=orisabiyi&theme=dark&hide_border=false" width="300" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orisabiyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/orisabiyi)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/d_orisabiyi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Orisabiyidavid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://orisabiyi-lab.vercel.app)
 
+Full-stack engineer from Lagos 🇳🇬. I like to understand how things work, break them apart, and build something better — usually with AI involved somewhere.
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=orisabiyi&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-</div>
-
-
-## 🌐 Socials:
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orisabiyi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Orisabiyidavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d_orisabiyi)
-
-</div>
-
-# 💻 Tech Stack:
-
-### 🌐 Frontend:
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-</div>
-
-### 🛠️ Backend:
-<div align="center">
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### ⚙️ Tools & Platforms:
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-### 💻 Other Technologies:
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-</div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=orisabiyi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I get genuinely excited about the gap between what software *can* do and what people are actually using it for. That gap is where I spend most of my time.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=orisabiyi&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I'm into right now
+
+- Building AI-native products — RAG pipelines, LLM integrations, agents that actually do useful things
+- Logistics infrastructure for African markets (routing, real-world constraints, messy data — love it)
+- Shipping fast and learning from what breaks
+- Founder of **[Common Chronicles](https://github.com/common-chronicles)** — a Lagos community for builders who make things and tell real stories
+
+---
+
+### How I build
+
+I default to **Next.js + TypeScript + Node.js** for most things. When I need speed on the backend I reach for **Fastify**. Data lives in **PostgreSQL via Prisma and Neon**. For AI I'm mostly working with **Gemini, LangChain, and Pinecone** — building RAG pipelines and integrating models into real product flows, not just wrapping APIs.
+
+I've shipped fintech tools, a logistics routing engine, an e-commerce platform, a peer-to-peer ride-sharing app, and a content automation bot — sometimes all in the same month.
+
+---
+
+### Currently shipping
+
+- 🚚 Route optimization microservice at [Fez Delivery](https://fezdelivery.co) — self-hosted OSRM, Nigerian road data, traffic-weighted heuristics
+- 🤖 **cc-bot** — automated content pipeline using Notion + Discord + Groq AI, built for Common Chronicles
+- 🛍️ **Slō Muse** — full-stack luxury e-commerce platform (Next.js 15, OPay, Framer Motion)
+
+---
+
+### Tech I work with
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+📫 **orisabiyidavid@gmail.com** — always open to interesting problems
